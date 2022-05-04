@@ -86,10 +86,10 @@ define("DEFAULT_EMAIL_ACCOUNT_NAME", "");
 // Database Configuration Settings
 define("DB_HOST", "localhost");
 define("DB_USERNAME", "root");
-define("DB_PASSWORD", "astalavista");
+define("DB_PASSWORD", "");
 define("DB_NAME", "fms");
 define("DB_TYPE", "mysql");
-define("DB_PORT", "3308");
+define("DB_PORT", "3306");
 define("DB_CHARSET", "utf8");
 
 define("MAX_RECORD_COUNT", 20); //Default Max Records to Retrieve  per Page
