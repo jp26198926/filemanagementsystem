@@ -160,12 +160,12 @@ class BaseController{
 		);
 		
 		$this->file_upload_settings['file'] = array(
-			"title" => "{{file_name}}",
+			"title" => "{{timestamp}}",
 			"extensions" => "",
 			"limit" => "1",
 			"filesize" => "3",
 			"returnfullpath" => true,
-			"filenameprefix" => "" . date('YmdHis') . "_",
+			"filenameprefix" => "",
 			"uploadDir" => "uploads/files/"
 		);
 	
