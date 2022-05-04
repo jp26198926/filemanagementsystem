@@ -31,3 +31,7 @@ password: user
 - None - can only see file list and open/download the file.
 
 # Screenshot
+
+![image](https://user-images.githubusercontent.com/44026745/166629638-9bcb5f80-3181-4832-bb2d-f2a209770fbc.png)
+
+
