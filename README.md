@@ -29,3 +29,5 @@ password: user
 - Administrator - have access to all modules.
 - User - limited to file modules only (CRUD).
 - None - can only see file list and open/download the file.
+
+# Screenshot
