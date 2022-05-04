@@ -15,6 +15,7 @@ If you want to buy the PHPRad License: use this coupon code `JAYPEE` to avail 15
 
 1. Extract all files to your Apache/Ningx Server (htdocs or www).
 2. Import default `default_2022_04_05.sql` to your MySql/Mariadb database.
+3. Edit `config.php` and change Database Configuration Settings to match with yours.
 
 # Default User Accounts
 
